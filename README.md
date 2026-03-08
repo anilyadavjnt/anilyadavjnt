@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.linkedin.com/posts/amit-palo_swiftui-iosdeveloper-iosdevelopment-activity-6959161382265085952-jWoS/">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anilyadavjnt&label=Profile%20views&color=0e75b6&style=flat" alt="anilyadavjnt" /> </p>
+<p align="left"> <img src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" /> </p>
 
 - 📫 How to reach me **anilyadavjnt@gmail.com**
 
