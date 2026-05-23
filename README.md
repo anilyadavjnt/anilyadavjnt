@@ -1,4 +1,4 @@
-![logo](https://github.com/anilyadavjnt/anilyadavjnt/blob/main/GitHub%20Banner.png)
+ //![logo](https://github.com/anilyadavjnt/anilyadavjnt/blob/main/GitHub%20Banner.png)
 
 <img width="1983" height="793" alt="Github iOS Banner" src="https://github.com/user-attachments/assets/6acf96e7-ba4e-46d6-a3c2-65e5b1215cc9" />
 
