@@ -14,8 +14,10 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anilyadavjnt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anilyadav_iosdev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anilyadavjnt) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25128563/anil-kumar-yadav) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anilyadavjnt) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@anilyadavjnt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anilyadavjnt@gmail.com) 
 
+
 # 💻 Tech Stack:
 ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=flat-square&logo=apple&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anilyadavjnt&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=anilyadavjnt&theme=radical&hide_border=false)<br/>
@@ -34,4 +36,5 @@
 [![](https://visitcount.itsvg.in/api?id=anilyadavjnt&icon=6&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
